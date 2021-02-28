@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	//welcome to Git Session
 	//Thank you for joining
 	// here is a new commit
+	// change 2
 }
 }
