@@ -7,8 +7,13 @@ public static void main(String[] args) {
 	//Thank you for joining
 	// here is a new commit
 	// change 2
+<<<<<<< HEAD
 	//change 3
 	//change 5
 	
+=======
+	//change 4 
+	//change6
+>>>>>>> refs/remotes/origin/main
 }
 }
